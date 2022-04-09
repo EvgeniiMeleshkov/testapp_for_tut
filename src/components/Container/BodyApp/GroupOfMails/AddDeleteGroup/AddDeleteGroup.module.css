@@ -1,0 +1,28 @@
+.addDeleteGroup {
+    display: flex;
+    margin-top: 1rem;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+.buttonAdd {
+    border: none;
+    text-shadow: 1px 1px 3px #0c863f;
+    font-family: Arial, system-ui;
+    color: #21702c;
+    font-size: 30px;
+    background-color: transparent;
+    padding: 10px 14px 10px 13px;
+}
+
+
+.buttonDelete {
+    border: none;
+    text-shadow: 1px 1px 3px #9d0909;
+    color: #ba0006;
+    font-size: 30px;
+    background-color: transparent;
+    padding: 10px 14px 10px 13px;
+}

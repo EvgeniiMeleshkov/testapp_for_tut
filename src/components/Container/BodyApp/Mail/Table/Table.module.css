@@ -1,0 +1,41 @@
+.table {
+    border: 1px solid #d5d9d9;
+    border-radius: 1px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table td:not(:last-child) {
+    border-right: 1px solid #ccc;
+}
+.table th .table td {
+    vertical-align: middle;
+    height: 1rem;
+    text-align: center;
+    padding: 5px;
+}
+
+.table th {
+    background-color: rgb(236, 255, 248);
+    color: rgb(64, 132, 109);
+}
+
+.table th:nth-child(odd) {
+    background: rgb(238, 252, 252);
+}
+
+.tr:nth-child(even) {
+    background: rgba(242, 238, 255, 0.86);
+}
+
+.tr {
+    height: 20px;
+    transition: all .3s;
+}
+
+.tr:hover {
+    background-color: #b7b5ce;
+}

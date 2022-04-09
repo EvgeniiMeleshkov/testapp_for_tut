@@ -1,0 +1,12 @@
+.mailForm {
+
+    border: 1px solid #d5d9d9;
+    border-radius: 1px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+  
+    width: 100%;
+    border-collapse: collapse;
+    height: 400px
+  }
+  

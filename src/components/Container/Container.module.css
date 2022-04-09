@@ -1,0 +1,14 @@
+.container {
+    top: 1rem;
+    flex-wrap: wrap;
+    background-color: rgba(241, 255, 247, 0.164);
+    width: 100%;
+    border-radius: 1px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 15px;
+    align-items: flex-start;
+  }

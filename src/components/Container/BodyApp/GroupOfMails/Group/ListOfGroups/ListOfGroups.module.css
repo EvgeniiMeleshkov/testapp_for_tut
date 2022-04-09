@@ -1,0 +1,30 @@
+.listOfGroups{
+    list-style: none;
+    margin-top: 1rem;
+    padding: 0%;
+    margin-left: 0%;
+    margin-right: 1rem;
+}
+
+.YourMails h4 {
+    color: rgb(36, 102, 80);
+    margin-top: 20px;
+    padding: 3 5px 3 7px;
+}
+
+.Button13 {
+    height: 2rem;
+    background-color: transparent;
+    border: 1px solid #d5d9d9;
+    border-radius: 1px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+    width: 120px;
+    text-align: start;
+    padding: 3 5px 3 7px;
+    cursor: pointer;
+}
+
+.Button13:hover {
+    background-color: #d9ffd6;
+}
